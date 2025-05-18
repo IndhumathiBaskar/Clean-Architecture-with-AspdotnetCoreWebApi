@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibaskar\\Desktop\\C#\\Interview Problem\\MiniProject\\Library Management\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0888FF-C917-4626-B059-F83AC416798F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\ibaskar\\desktop\\c#\\interview problem\\miniproject\\library management\\librarymanagementsystem\\librarymanagementsystem\\presentation\\controllers\\returnbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0888FF-C917-4626-B059-F83AC416798F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\presentation\\controllers\\returnbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0888FF-C917-4626-B059-F83AC416798F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\ibaskar\\desktop\\c#\\interview problem\\miniproject\\library management\\librarymanagementsystem\\librarymanagementsystem\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0888FF-C917-4626-B059-F83AC416798F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0888FF-C917-4626-B059-F83AC416798F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\ibaskar\\desktop\\c#\\interview problem\\miniproject\\library management\\librarymanagementsystem\\librarymanagementsystem\\usecases\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0888FF-C917-4626-B059-F83AC416798F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\usecases\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0888FF-C917-4626-B059-F83AC416798F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\ibaskar\\desktop\\c#\\interview problem\\miniproject\\library management\\librarymanagementsystem\\librarymanagementsystem\\usecases\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0888FF-C917-4626-B059-F83AC416798F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\usecases\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0888FF-C917-4626-B059-F83AC416798F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\ibaskar\\desktop\\c#\\interview problem\\miniproject\\library management\\librarymanagementsystem\\librarymanagementsystem\\presentation\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0888FF-C917-4626-B059-F83AC416798F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\presentation\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0888FF-C917-4626-B059-F83AC416798F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\ibaskar\\desktop\\c#\\interview problem\\miniproject\\library management\\librarymanagementsystem\\librarymanagementsystem\\infrastructure\\repositories\\sqlbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0888FF-C917-4626-B059-F83AC416798F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\infrastructure\\repositories\\sqlbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0888FF-C917-4626-B059-F83AC416798F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\ibaskar\\desktop\\c#\\interview problem\\miniproject\\library management\\librarymanagementsystem\\librarymanagementsystem\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0888FF-C917-4626-B059-F83AC416798F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0888FF-C917-4626-B059-F83AC416798F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\ibaskar\\desktop\\c#\\interview problem\\miniproject\\library management\\librarymanagementsystem\\librarymanagementsystem\\infrastructure\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0888FF-C917-4626-B059-F83AC416798F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\infrastructure\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/LibraryDB/True/SqlTable/dbo.Books.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0888FF-C917-4626-B059-F83AC416798F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\ibaskar\\desktop\\c#\\interview problem\\miniproject\\library management\\librarymanagementsystem\\librarymanagementsystem\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0888FF-C917-4626-B059-F83AC416798F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReturnBookController.cs",
+              "DocumentMoniker": "C:\\Users\\ibaskar\\Desktop\\C#\\Interview Problem\\MiniProject\\Library Management\\LibraryManagementSystem\\LibraryManagementSystem\\Presentation\\Controllers\\ReturnBookController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Presentation\\Controllers\\ReturnBookController.cs",
+              "ToolTip": "C:\\Users\\ibaskar\\Desktop\\C#\\Interview Problem\\MiniProject\\Library Management\\LibraryManagementSystem\\LibraryManagementSystem\\Presentation\\Controllers\\ReturnBookController.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Presentation\\Controllers\\ReturnBookController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T06:32:08.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ibaskar\\Desktop\\C#\\Interview Problem\\MiniProject\\Library Management\\LibraryManagementSystem\\LibraryManagementSystem\\UseCases\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\UseCases\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\ibaskar\\Desktop\\C#\\Interview Problem\\MiniProject\\Library Management\\LibraryManagementSystem\\LibraryManagementSystem\\UseCases\\IBookRepository.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\UseCases\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T06:17:48.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\ibaskar\\Desktop\\C#\\Interview Problem\\MiniProject\\Library Management\\LibraryManagementSystem\\LibraryManagementSystem\\Presentation\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Presentation\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\ibaskar\\Desktop\\C#\\Interview Problem\\MiniProject\\Library Management\\LibraryManagementSystem\\LibraryManagementSystem\\Presentation\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Presentation\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T13:35:21.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibraryService.cs",
+              "DocumentMoniker": "C:\\Users\\ibaskar\\Desktop\\C#\\Interview Problem\\MiniProject\\Library Management\\LibraryManagementSystem\\LibraryManagementSystem\\UseCases\\LibraryService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\UseCases\\LibraryService.cs",
+              "ToolTip": "C:\\Users\\ibaskar\\Desktop\\C#\\Interview Problem\\MiniProject\\Library Management\\LibraryManagementSystem\\LibraryManagementSystem\\UseCases\\LibraryService.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\UseCases\\LibraryService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAtwCMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:50:20.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ibaskar\\Desktop\\C#\\Interview Problem\\MiniProject\\Library Management\\LibraryManagementSystem\\LibraryManagementSystem\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\ibaskar\\Desktop\\C#\\Interview Problem\\MiniProject\\Library Management\\LibraryManagementSystem\\LibraryManagementSystem\\Entities\\Book.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Entities\\Book.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIA9wCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:54:52.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ibaskar\\Desktop\\C#\\Interview Problem\\MiniProject\\Library Management\\LibraryManagementSystem\\LibraryManagementSystem\\Infrastructure\\Data\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Infrastructure\\Data\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\ibaskar\\Desktop\\C#\\Interview Problem\\MiniProject\\Library Management\\LibraryManagementSystem\\LibraryManagementSystem\\Infrastructure\\Data\\AppDbContextFactory.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Infrastructure\\Data\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:18:00.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibaskar\\Desktop\\C#\\Interview Problem\\MiniProject\\Library Management\\LibraryManagementSystem\\LibraryManagementSystem\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\ibaskar\\Desktop\\C#\\Interview Problem\\MiniProject\\Library Management\\LibraryManagementSystem\\LibraryManagementSystem\\Presentation\\Program.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Presentation\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T08:14:20.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.Books.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/LibraryDB/True/SqlTable/dbo.Books.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/LibraryDB/True/SqlTable/dbo.Books.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-26T12:47:43.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SqlBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ibaskar\\Desktop\\C#\\Interview Problem\\MiniProject\\Library Management\\LibraryManagementSystem\\LibraryManagementSystem\\Infrastructure\\Repositories\\SqlBookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Infrastructure\\Repositories\\SqlBookRepository.cs",
+              "ToolTip": "C:\\Users\\ibaskar\\Desktop\\C#\\Interview Problem\\MiniProject\\Library Management\\LibraryManagementSystem\\LibraryManagementSystem\\Infrastructure\\Repositories\\SqlBookRepository.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Infrastructure\\Repositories\\SqlBookRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAvwB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T08:10:07.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ibaskar\\Desktop\\C#\\Interview Problem\\MiniProject\\Library Management\\LibraryManagementSystem\\LibraryManagementSystem\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ibaskar\\Desktop\\C#\\Interview Problem\\MiniProject\\Library Management\\LibraryManagementSystem\\LibraryManagementSystem\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T08:03:42.915Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

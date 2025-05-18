@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibaskar\\Desktop\\C#\\Interview Problem\\MiniProject\\Library Management\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0888FF-C917-4626-B059-F83AC416798F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\ibaskar\\desktop\\c#\\interview problem\\miniproject\\library management\\librarymanagementsystem\\librarymanagementsystem\\usecases\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0888FF-C917-4626-B059-F83AC416798F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\usecases\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0888FF-C917-4626-B059-F83AC416798F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\ibaskar\\desktop\\c#\\interview problem\\miniproject\\library management\\librarymanagementsystem\\librarymanagementsystem\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0888FF-C917-4626-B059-F83AC416798F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0888FF-C917-4626-B059-F83AC416798F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\ibaskar\\desktop\\c#\\interview problem\\miniproject\\library management\\librarymanagementsystem\\librarymanagementsystem\\presentation\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0888FF-C917-4626-B059-F83AC416798F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\presentation\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0888FF-C917-4626-B059-F83AC416798F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\ibaskar\\desktop\\c#\\interview problem\\miniproject\\library management\\librarymanagementsystem\\librarymanagementsystem\\presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0888FF-C917-4626-B059-F83AC416798F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0888FF-C917-4626-B059-F83AC416798F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\ibaskar\\desktop\\c#\\interview problem\\miniproject\\library management\\librarymanagementsystem\\librarymanagementsystem\\presentation\\controllers\\returnbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0888FF-C917-4626-B059-F83AC416798F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\presentation\\controllers\\returnbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReturnBookController.cs",
+              "DocumentMoniker": "C:\\Users\\ibaskar\\Desktop\\C#\\Interview Problem\\MiniProject\\Library Management\\LibraryManagementSystem\\LibraryManagementSystem\\Presentation\\Controllers\\ReturnBookController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Presentation\\Controllers\\ReturnBookController.cs",
+              "ToolTip": "C:\\Users\\ibaskar\\Desktop\\C#\\Interview Problem\\MiniProject\\Library Management\\LibraryManagementSystem\\LibraryManagementSystem\\Presentation\\Controllers\\ReturnBookController.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Presentation\\Controllers\\ReturnBookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:51:07.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\ibaskar\\Desktop\\C#\\Interview Problem\\MiniProject\\Library Management\\LibraryManagementSystem\\LibraryManagementSystem\\Presentation\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Presentation\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\ibaskar\\Desktop\\C#\\Interview Problem\\MiniProject\\Library Management\\LibraryManagementSystem\\LibraryManagementSystem\\Presentation\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Presentation\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:49:09.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ibaskar\\Desktop\\C#\\Interview Problem\\MiniProject\\Library Management\\LibraryManagementSystem\\LibraryManagementSystem\\Presentation\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Presentation\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ibaskar\\Desktop\\C#\\Interview Problem\\MiniProject\\Library Management\\LibraryManagementSystem\\LibraryManagementSystem\\Presentation\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Presentation\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:24:31.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ibaskar\\Desktop\\C#\\Interview Problem\\MiniProject\\Library Management\\LibraryManagementSystem\\LibraryManagementSystem\\UseCases\\AuthService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\UseCases\\AuthService.cs",
+              "ToolTip": "C:\\Users\\ibaskar\\Desktop\\C#\\Interview Problem\\MiniProject\\Library Management\\LibraryManagementSystem\\LibraryManagementSystem\\UseCases\\AuthService.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\UseCases\\AuthService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T06:58:26.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibaskar\\Desktop\\C#\\Interview Problem\\MiniProject\\Library Management\\LibraryManagementSystem\\LibraryManagementSystem\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\ibaskar\\Desktop\\C#\\Interview Problem\\MiniProject\\Library Management\\LibraryManagementSystem\\LibraryManagementSystem\\Presentation\\Program.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Presentation\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAFsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T08:14:20.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
